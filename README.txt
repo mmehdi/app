@@ -1,0 +1,1 @@
+/Users/mmehdi/Downloads/BetaBuilder.app/Contents/Resources/README
