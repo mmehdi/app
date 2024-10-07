@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://ops.entryphone.co.uk/maintenance/mobilelocations/EntryphoneGPS.ipa</string>
+					<string>https://github.com/mmehdi/app/raw/master/EntryphoneGPS.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://ops.entryphone.co.uk/maintenance/mobilelocations/57.png</string>
+					<string>https://github.com/mmehdi/app/blob/master/57.png?raw=true</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://ops.entryphone.co.uk/maintenance/mobilelocations/appstore.png</string>
+					<string>https://github.com/mmehdi/app/blob/master/appstore.png?raw=true</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -34,12 +34,12 @@
 				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
-				<key>platform-identifier</key>
-				<string>com.apple.platform.iphoneos</string>
 				<key>title</key>
-				<string>EntryphoneGPS</string>
+				<string>MobileLocations</string>
 			</dict>
 		</dict>
 	</array>
 </dict>
 </plist>
+
+
