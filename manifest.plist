@@ -13,6 +13,16 @@
 					<key>url</key>
 					<string>https://github.com/mmehdi/app/raw/master/EntryphoneGPS.ipa</string>
 				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>url</key>https://github.com/mmehdi/app/blob/master/57.png?raw=true
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>url</key>https://github.com/mmehdi/app/blob/master/appstore.png?raw=true
+				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
@@ -29,3 +39,5 @@
 	</array>
 </dict>
 </plist>
+
+
